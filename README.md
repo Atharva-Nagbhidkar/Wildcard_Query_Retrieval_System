@@ -54,12 +54,12 @@ This project implements a **B-Tree** data structure optimized for **Wildcard Que
 ## 🔧 How to Run
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/btree-wildcard-query.git
+git clone https://github.com/Atharva-Nagbhidkar/Wildcard_Query_Retrieval_System.git
 ```
 
 2. **Navigate to the Project Directory**
 ```bash
-cd btree-wildcard-query
+cd Wildcard_Query_Retrieval_System
 ```
 
 3. **Run the Code**
